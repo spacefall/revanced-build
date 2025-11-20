@@ -26,7 +26,6 @@ version = "beta"
 [Instagram]
 arch = "arm64-v8a"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 included-patches = "'Hide ads' 'Open links externally' 'Sanitize sharing links' 'Disable signature check'"
 exclusive-patches = true
 
