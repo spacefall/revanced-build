@@ -17,12 +17,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
 uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 dpi = "120-640dpi"
 
-[SolidExplorer]
-arch = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta"
-uptodown-dlurl = "https://solid-explorer-file-manager.en.uptodown.com/android"
-version = "beta"
-
 # crashes the build script somehow? also apkmirror returns 403
 #[Instagram]
 #arch = "arm64-v8a"
