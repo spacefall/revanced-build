@@ -1,4 +1,7 @@
-SolidExplorer: 2.8.63  
+Photomath: 8.46.0  
+GooglePhotos: 7.54.0.830914249  
+SolidExplorer: 3.1.3  
+Music: 8.10.52  
 YouTube: 20.14.43  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
