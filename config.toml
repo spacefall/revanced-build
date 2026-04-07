@@ -33,3 +33,4 @@ dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
 uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 dpi = "120-640dpi"
+enabled=false
